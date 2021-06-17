@@ -1,1 +1,4 @@
-{ "homepage": "index.html", "gitRepo": "gittests" }
+{
+	"homepage":"index.html"
+	,"gitRepo":"gittests"
+}
